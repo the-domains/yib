@@ -1,0 +1,23 @@
+name: yib
+favicon: null
+layout_spectrum: 0.23901790636591613
+typography_spectrum: 0.5989660711493343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.030268846079707146
+  lightness: 0.02916318061761558
+  saturation: 0.9346425537951291
+  rhythmicContrast: 0.7070352626033127
+purpose: []
